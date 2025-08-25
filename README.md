@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Krishna Kanth URS K M  
+# Hi there 👋,
+I'm Krishna Kanth URS K M  
 
 🚀 **Aspiring Information Science Engineer** passionate about software development, full-stack applications, and data-driven solutions. I enjoy building impactful projects that merge creativity with technology.  
 
