@@ -48,7 +48,7 @@ I'm Krishna Kanth URS K M
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishnakanthurskm)  
 - 🖥️ [GitHub](https://github.com/Krishnakanth303)  
-- 📧 Email: **krkm22ise@cmrit.ac.in**  
+- 📧 Email: **krishnakanthurs@gmail.com**  
 
 ---
 
