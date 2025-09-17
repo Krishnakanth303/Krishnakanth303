@@ -7,8 +7,8 @@ I'm Krishna Kanth URS K M
 
 ## 💡 About Me  
 - 🎓 **BE in Information Science & Engineering** @ CMR Institute of Technology (8.18 CGPA, pursuing)  
-- 💻 Skilled in **Java (DSA), Python, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, SQLite**  
-- 🔧 Tools: Git, GitHub, Nodemailer, Chart.js  
+- 💻 Skilled in **Java (DSA), Python, HTML, CSS, MongoDB, MySQL **  
+- 🔧 Tools: Git, GitHub 
 - 📈 Actively learning and exploring **AI, DevOps, and Cloud practices**  
 - 🏏 Apart from coding, I enjoy **Kabaddi, Cricket, Chess, and Badminton**  
 
