@@ -15,7 +15,7 @@ I'm Krishna Kanth URS K M
 ---
 
 ## 🛠️ Projects  
-### 🔹 [Salon Appointment Booking System](#)  
+### 🔹 # ✂️ [Salon Appointment Management System](https://salon-appointment-system-bkxi.onrender.com/)  
 📌 A web app to manage salon appointments with real-time validation, email notifications, and responsive UI.  
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, SQLite, Nodemailer  
 
