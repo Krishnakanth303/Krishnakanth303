@@ -39,7 +39,7 @@ I'm Krishna Kanth URS K M
 ---
 
 ## 🏆 Achievements  
-- 🚀 Built & deployed **3+ real-world projects** (Full-stack + IoT-based dashboard).  
+- 🚀 Built & deployed **5+ real-world projects** (Full-stack + IoT-based dashboard).  
 - 📚 Completed **6+ certifications** in AI, Web Development, and DevOps.  
 - 🌟 Continuous learner, always exploring new technologies.  
 
